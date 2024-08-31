@@ -1,0 +1,4 @@
+pynput
+pycryptodome
+requests
+Pillow
